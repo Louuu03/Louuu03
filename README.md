@@ -1,6 +1,6 @@
 # Hi, I'm Lou!
 
-I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I make sure that every step I take brings me closer to realize all the ideas and my dream.
+I am a **web developer**. I always have some crazy ideas ✨ in my mind. I make sure that every step I take brings me closer to realize all the ideas and my dream.
 
 ## 🗽 My Values
 
@@ -15,10 +15,9 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 
 ***
 
-* Dig into more UI/UX design.
 * Learn Blockchain.
+* Learn some backend.
 * Going to different café and paint the street views using watercolor.
-* Join a band with my acoustic (and electric) guitar.
 
 ## 👅 My Dream
 
@@ -41,7 +40,7 @@ I am a **web developer**. I always have some crazy ideas 💫✨ in my mind. I m
 
 ***
 Just building more different projects.
-* E-commerce website
+* Some web apps for financing and time management.
 * ...
 
 ## 🔍 I'm Currently Learning
@@ -49,7 +48,7 @@ Just building more different projects.
 ***
 
 * Blockchain
-* Three.js
+* Backend
 * More animation
 
 ## 📧 How To Reach Me

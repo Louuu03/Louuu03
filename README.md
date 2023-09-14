@@ -1,55 +1,53 @@
 # Hi, I'm Lou!
 
-I am a **web developer**. I always have some crazy ideas ✨ in my mind. I make sure that every step I take brings me closer to realize all the ideas and my dream.
+Web weaver and coding explorer, on a mission to blend imagination and innovation to conjure captivating online experiences that leave users spellbound.
 
 ## 🗽 My Values
 
 ***
-    👽 Stay curious.
-    👻 Be artistic and creative.
-    ⭐ Work harder and go a bit further away from normal to unique.
-    🐾 Be kind.
-    🌞 We can make a change, and I can make a change.
+    👽 Stay endlessly curious and explore the unknown.
+    👻 Foster my artistic and creative spirit.
+    ⭐ Challenge the status quo, consistently pushing the boundaries towards uniqueness.
+    🐾 Harness my potential as a catalyst for meaningful transformation.
+    🌞 Embrace the belief that collective efforts can create profound positive change.
 
 ## 🌈 Goals For 2023
 
 ***
 
-* Learn Blockchain.
-* Learn some backend.
-* Going to different café and paint the street views using watercolor.
+* Mastering the intricacies of Blockchain technology.
+* Gaining proficiency in backend development.
+* Embarking on a creative journey to various cafes, capturing street views with watercolors as my canvas. 🎨☕
 
 ## 👅 My Dream
 
 ***
 
-* Find a solution to hunger by techonology. (I have some little ideas already...)
-* Build a Language exchange apps.
-* Made an side project that combines all my background knowledge annd experience.
-* Travel again.
+* Use technology to combat hunger and ensure no one goes to bed hungry..
+* Develop language exchange apps to offer people diverse and highly efficient learning methods.
+* Explore and experience new destinations through travel once more.
 
-## 🔮 I'm Looking For
-
-***
-
-* Any chances to have a project to collaborate with.
-* Some freelance job.
-
-
-## ✒️ I'm Currently Working On
-
-***
-Just building more different projects.
-* Some web apps for financing and time management.
-* ...
-
-## 🔍 I'm Currently Learning
+## 🔮 What I'm Seeking
 
 ***
 
-* Blockchain
-* Backend
-* More animation
+* Opportunities for collaborative projects to work on and contribute to.
+
+
+## ✒️ Current Projects
+
+***
+I'm actively engaged in various endeavors, including:
+* Developing web applications for financial management.
+* Exploring other exciting projects to expand my portfolio.
+
+## 🔍Current Learning Focus
+
+***
+I'm currently dedicated to expanding my knowledge in:
+* Blockchain technology.
+* Backend development.
+* Enhancing animation skills for more dynamic and engaging projects.
 
 ## 📧 How To Reach Me
 
@@ -62,10 +60,10 @@ Just building more different projects.
 ## 🌝 Fun Facts
 
 ***
-
-* I can play five instruments🎶(and I have four of them with me).
-* I **surfffffff**!🌊 And I just got my first skateboard.
-* I am a basketball coach and a football referee.😉
-* I love handcrafting. Hit me up if you find some cool DIY ideas.😚
-* Oh, I speak french, quite fluent, too. Hope to find a partner to exchange.
-* I have a sociology degree.
+Here are some interesting tidbits about me:
+* I'm a multi-instrumentalist, proficient in playing five different musical instruments, and I keep four of them close at hand.
+* I'm an avid surfer 🌊 and have recently taken up skateboarding for an extra dose of excitement.
+* When I'm not catching waves or perfecting my kickflips, I'm busy coaching basketball and refereeing football games. 😉
+* Crafting is another one of my passions, so if you stumble upon some cool DIY ideas, don't hesitate to reach out! 😚
+* I'm fluent in French and would love to find a language exchange partner to practice and improve my skills.
+ *My academic background includes a degree in sociology, which has sharpened my understanding of society and human dynamics. 📚

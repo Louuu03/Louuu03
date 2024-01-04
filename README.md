@@ -11,12 +11,11 @@ Web weaver and coding explorer, on a mission to blend imagination and innovation
     🐾 Harness my potential as a catalyst for meaningful transformation.
     🌞 Embrace the belief that collective efforts can create profound positive change.
 
-## 🌈 Goals For 2023
+## 🌈 Goals For 2024
 
 ***
 
-* Mastering the intricacies of Blockchain technology.
-* Gaining proficiency in backend development.
+* Finish and deliver my projects to public.
 * Embarking on a creative journey to various cafes, capturing street views with watercolors as my canvas. 🎨☕
 
 ## 👅 My Dream

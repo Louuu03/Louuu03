@@ -12,9 +12,12 @@ Web weaver and coding explorer, on a mission to blend imagination and innovation
 
 ## Projects
 
-- [This Lang](https://www.figma.com/file/U3M9nct2iqq4caoXy02SHM/App?type=design&node-id=45-672&mode=design&t=YEEunJkwCJBzofzM-0):
+- [Tulex mainsite](https://tulex.thislou.com)
+- [Figma](https://www.figma.com/file/U3M9nct2iqq4caoXy02SHM/App?type=design&node-id=45-672&mode=design&t=YEEunJkwCJBzofzM-0):
 
-  An innovative language-focused app leveraging OpenAI's advanced capabilities, designed to enhance both writing and speaking skills. This app features an interactive system that asks users personalized questions to create a tailored learning plan, aligning with their individual goals and proficiency levels. It includes weekly writing challenges, with AI-generated topics and grading, fostering continuous learning and user engagement. To add a competitive edge, the app incorporates a gamified experience with a weekly leaderboard, promoting continuous improvement. The speaking component offers a variety of AI-curated topics for online events like debates, talk shows, and book sharing sessions, hosted in virtual meeting spaces.
+  An innovative language-focused app leveraging OpenAI's advanced capabilities, designed to enhance both writing and speaking skills. This app features an interactive system that asks users personalized questions to create a tailored learning plan, aligning with their individual goals and proficiency levels. It includes weekly writing challenges, with AI-generated topics and grading, fostering continuous learning and user engagement. To add a competitive edge, the app incorporates a gamified experience with a weekly leaderboard, promoting continuous improvement. The speaking component offers a variety of AI-curated topics for online events like debates, talk shows, and book-sharing sessions, hosted in virtual meeting spaces.
+
+  - Next.js, React, MongoDB, AWS 
 
 - Older ones: ～ 2021
 
@@ -32,12 +35,12 @@ Web weaver and coding explorer, on a mission to blend imagination and innovation
 
 ## 🌈 Goals For 2024
 
-- Finish and deliver my projects to public.
-- Embarking on a creative journey to various cafes, capturing street views with watercolors as my canvas. 🎨☕
+- Finish and deliver my projects to the public.
+- Embarking on a creative journey to various cafes, capturing street views with watercolours as my canvas. 🎨☕
 
 ## 👅 My Dream
 
-- Use technology to combat hunger and ensure no one goes to bed hungry..
+- Use technology to combat hunger and ensure no one goes to bed hungry...
 - Develop language exchange apps to offer people diverse and highly efficient learning methods.
 - Explore and experience new destinations through travel once more.
 
@@ -47,7 +50,7 @@ Web weaver and coding explorer, on a mission to blend imagination and innovation
 
 ## ✒️ Current Projects
 
-I'm actively engaged in various endeavors, including:
+I'm actively engaged in various endeavours, including:
 
 - Developing web applications for financial management or language learning.
 - Exploring other exciting projects to expand my portfolio.
@@ -56,7 +59,7 @@ I'm actively engaged in various endeavors, including:
 
 I'm currently dedicated to expanding my knowledge in:
 
-- Saty updated with new tech and trends in Fullstack .
+- Stay updated with new tech and trends.
 - Flutter
 
 ## 📧 How To Reach Me
@@ -70,6 +73,6 @@ I'm currently dedicated to expanding my knowledge in:
 Here are some tidbits about me:
 
 - Loves Gaming. Right now on Baldur's Gate.
-- Was an fit (student) athlete, but not anymore. 🫥
+- Was a fit (student) athlete, but not anymore. 🫥
 - Plays Guitar (and spent all the money there).
-- Has Publish some art as nft.
+- Has Published some art as NFTs.

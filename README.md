@@ -12,8 +12,9 @@ Web weaver and coding explorer, on a mission to blend imagination and innovation
 
 ## Projects
 
-- [Tulex mainsite](https://tulex.thislou.com)
-- [Figma](https://www.figma.com/file/U3M9nct2iqq4caoXy02SHM/App?type=design&node-id=45-672&mode=design&t=YEEunJkwCJBzofzM-0):
+- Tulex, The Ultimate Language Exchange
+    - [Main Site](https://tulex.thislou.com)
+    - [Figma Design Here](https://www.figma.com/file/U3M9nct2iqq4caoXy02SHM/App?type=design&node-id=45-672&mode=design&t=YEEunJkwCJBzofzM-0)
 
   An innovative language-focused app leveraging OpenAI's advanced capabilities, designed to enhance both writing and speaking skills. This app features an interactive system that asks users personalized questions to create a tailored learning plan, aligning with their individual goals and proficiency levels. It includes weekly writing challenges, with AI-generated topics and grading, fostering continuous learning and user engagement. To add a competitive edge, the app incorporates a gamified experience with a weekly leaderboard, promoting continuous improvement. The speaking component offers a variety of AI-curated topics for online events like debates, talk shows, and book-sharing sessions, hosted in virtual meeting spaces.
 
